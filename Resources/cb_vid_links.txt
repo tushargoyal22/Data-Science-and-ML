@@ -1,0 +1,23 @@
+Data Augmentation -->
+--------------------------
+https://www.youtube.com/watch?time_continue=1&v=yi0DjYjLQm8&feature=emb_logo
+
+
+CNN --->
+-------
+
+https://www.youtube.com/watch?time_continue=6&v=d6m51F9F5vc&feature=emb_logo
+
+https://www.youtube.com/watch?v=X5EOm30YiQQ&feature=emb_logo
+
+https://www.youtube.com/watch?time_continue=1&v=vhXRhe5Vp98&feature=emb_logo
+
+Pooling-->
+https://www.youtube.com/watch?v=5OYK7ddZcFg&feature=emb_logo
+
+https://www.youtube.com/watch?v=GxnkH-oRy7I&feature=emb_logo
+
+FASHION MNIST CNN
+------------------
+
+https://www.youtube.com/watch?v=3HzroHVGqmQ&feature=emb_logo
